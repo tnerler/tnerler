@@ -32,7 +32,6 @@ Hello there! I'm Tuana, an enthusiastic learner with a passion for technology an
 Here are some companies that inspire me:
 - 🎮 **Riot Games**
 - 🎮 **Rockstar Games**
-- 🎮 **Blizzard Entertainment** *(for creativity and innovation)*
 - 🦄 **OpenAI**
 - 🌍 **Google DeepMind**
 - 💡 **Tesla**
