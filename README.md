@@ -42,7 +42,7 @@ Here are some companies that inspire me:
 ## 🌈 Personal Note
 Feel free to reach out if you'd like to collaborate or discuss my projects! I'm always curious to learn new technologies and improve my skills. I believe in teamwork and growing through diverse ideas. 
 
-📫 Contact me at: [tuanaerler8@gmail.com](mailto:tuanaerler8@gmail.com) or Linkledin: (https://www.linkedin.com/in/tuana-erler-b26143310)
+📫 Contact me at: [tuanaerler8@gmail.com](mailto:tuanaerler8@gmail.com) or [LinkledIn](https://www.linkedin.com/in/tuana-erler-b26143310)
 ---
 
 ## 📊 GitHub Stats
