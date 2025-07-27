@@ -12,7 +12,7 @@ Hello there! I'm Tuana, an enthusiastic learner with a passion for technology an
 ## 💻 My GitHub Projects
 ### 🤖 Chatbot Projects
 - [PiriReis-ChatBot](https://github.com/tnerler/PiriReis-ChatBot): A chatbot project for Piri Reis University.
-- [django_version](https://github.com/tnerler/django_version): The Django version of the chatbot.
+- [Django Version](https://github.com/tnerler/django_version): The Django version of the chatbot.
 
 ### 🧠 Computer Vision Projects
 - [Malaria Classifier](https://github.com/tnerler/Malaria-Classifier): A CNN-based model for classifying microscopic cell images (Parasitized / Uninfected).
