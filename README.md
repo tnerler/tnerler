@@ -11,8 +11,8 @@ Hello there! I'm Tuana, an enthusiastic learner with a passion for technology an
 
 ## 💻 My GitHub Projects
 ### 🤖 Chatbot Projects
-- [PiriReis-ChatBot called PiriX](https://github.com/tnerler/PiriX): A chatbot project for Piri Reis University.
-
+- [PiriReis-ChatBot](https://github.com/tnerler/PiriX): A chatbot project for Piri Reis University.
+- [AI Chatbot Demo](https://github.com/tnerler/ai-document-chatbot-demo): A Chatbot Demo for Policies
 
 ### 🧠 Computer Vision Projects
 - [Malaria Classifier](https://github.com/tnerler/Malaria-Classifier): A CNN-based model for classifying microscopic cell images (Parasitized / Uninfected).
