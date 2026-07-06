@@ -34,7 +34,7 @@ I'm currently deepening my knowledge of **MLOps**, **Transformers**, **LLM Appli
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### [Churn Prediction](https://github.com/tnerler/churn-prediction)
 
@@ -49,18 +49,7 @@ An end-to-end customer churn prediction system built with a full Scikit-Learn pi
 `Python` `Scikit-Learn` `SHAP` `Pandas`
 
 </td>
-<td width="50%" valign="top">
-
-### [Movie Recommender](https://github.com/tnerler/movie-recommender)
-
-A content-based movie recommendation system using TF-IDF vectorization and cosine similarity to surface relevant titles based on content features.
-
-`Python` `TF-IDF` `Cosine Similarity` `Pandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### [Building a Neural Network from Scratch](https://github.com/tnerler/Building-a-Neural-Network-from-Scratch)
 
@@ -74,7 +63,7 @@ A neural network implemented entirely with NumPy, with no deep learning framewor
 `Python` `NumPy`
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### [Maze Escape](https://github.com/tnerler/MazeEscape)
 
