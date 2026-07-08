@@ -36,7 +36,7 @@ I'm currently deepening my knowledge of **MLOps**, **Transformers**, **LLM Appli
 <tr>
 <td width="30%" valign="top">
 
-### [Churn Prediction](https://github.com/tnerler/churn-prediction)
+### [Telecom Churn Prediction System](https://github.com/tnerler/Telecom-Churn-Prediction-system/tree/main)
 
 An end-to-end customer churn prediction system built with a full Scikit-Learn pipeline.
 
