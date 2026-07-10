@@ -14,6 +14,10 @@
 
 ## About Me
 
+<div align="center">
+    <img src="ascii-art.png" width="450"/>
+</div>
+
 I'm a Computer Engineering student at **Piri Reis University**, focused on building practical machine learning systems end-to-end — from data pipelines and model training to deployment and explainability.
 
 My work centers on a few core areas:
